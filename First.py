@@ -1,3 +1,3 @@
-Hello Shikha Mam Good Afternoon,
-This is MY Lab EST.
-Thank You!!!
+print("Hello Shikha Mam Good Afternoon,")
+print("This is MY Lab EST.")
+print("Thank You!!!")
